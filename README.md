@@ -3,4 +3,4 @@
 
 **This project using: html - css - js**
 
-### ![Live Demo](https://ma-eltawel.github.io/xo-game/)
+## [Live Demo](https://ma-eltawel.github.io/xo-game)
